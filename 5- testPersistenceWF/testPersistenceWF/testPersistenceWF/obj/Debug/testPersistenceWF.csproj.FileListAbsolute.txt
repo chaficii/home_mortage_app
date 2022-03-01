@@ -1,0 +1,7 @@
+C:\Users\TT\source\repos\testPersistenceWF\testPersistenceWF\bin\Debug\testPersistenceWF.exe.config
+C:\Users\TT\source\repos\testPersistenceWF\testPersistenceWF\bin\Debug\testPersistenceWF.exe
+C:\Users\TT\source\repos\testPersistenceWF\testPersistenceWF\bin\Debug\testPersistenceWF.pdb
+C:\Users\TT\source\repos\testPersistenceWF\testPersistenceWF\obj\Debug\testPersistenceWF.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\testPersistenceWF\testPersistenceWF\obj\Debug\testPersistenceWF.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\testPersistenceWF\testPersistenceWF\obj\Debug\testPersistenceWF.exe
+C:\Users\TT\source\repos\testPersistenceWF\testPersistenceWF\obj\Debug\testPersistenceWF.pdb

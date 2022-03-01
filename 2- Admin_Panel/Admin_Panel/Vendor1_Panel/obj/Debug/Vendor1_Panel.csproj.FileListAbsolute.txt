@@ -1,0 +1,16 @@
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\bin\Debug\Vendor1_Panel.exe.config
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\bin\Debug\Vendor1_Panel.exe
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\bin\Debug\Vendor1_Panel.pdb
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\obj\Debug\Vendor1_Panel.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\obj\Debug\Vendor1_Panel.Form1.resources
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\obj\Debug\Vendor1_Panel.Properties.Resources.resources
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\obj\Debug\Vendor1_Panel.csproj.GenerateResource.cache
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\obj\Debug\Vendor1_Panel.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\obj\Debug\Vendor1_Panel.exe
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\obj\Debug\Vendor1_Panel.pdb
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\bin\Debug\Google.Protobuf.dll
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\bin\Debug\MySql.Data.dll
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\bin\Debug\Google.Protobuf.xml
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\bin\Debug\MySql.Data.xml
+C:\Users\TT\source\repos\Admin_Panel\Vendor1_Panel\obj\Debug\Vendor1_Panel.csproj.CopyComplete

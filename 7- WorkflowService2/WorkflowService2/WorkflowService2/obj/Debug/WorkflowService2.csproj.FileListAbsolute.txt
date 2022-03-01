@@ -1,0 +1,13 @@
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\bin\WorkflowService2.dll.config
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\bin\WorkflowService2.dll
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\bin\WorkflowService2.pdb
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\bin\System.Net.Http.Extensions.dll
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\bin\System.Net.Http.Primitives.dll
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\bin\System.Net.Http.Extensions.xml
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\bin\System.Net.Http.Primitives.xml
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\obj\Debug\WorkflowService2.csproj.App.config
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\obj\Debug\WorkflowService2.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\obj\Debug\WorkflowService2.csproj.CopyComplete
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\obj\Debug\WorkflowService2.pdb
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\obj\Debug\WorkflowService2.dll
+C:\Users\TT\source\repos\WorkflowService2\WorkflowService2\obj\Debug\WorkflowService2.csprojAssemblyReference.cache

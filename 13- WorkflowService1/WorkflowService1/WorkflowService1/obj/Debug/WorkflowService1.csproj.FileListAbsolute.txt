@@ -1,0 +1,10 @@
+C:\Users\TT\source\repos\WorkflowService1\WorkflowService1\bin\WorkflowService1.dll.config
+C:\Users\TT\source\repos\WorkflowService1\WorkflowService1\bin\WorkflowService1.dll
+C:\Users\TT\source\repos\WorkflowService1\WorkflowService1\bin\WorkflowService1.pdb
+C:\Users\TT\source\repos\WorkflowService1\WorkflowService1\obj\Debug\WorkflowService1.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\WorkflowService1\WorkflowService1\obj\Debug\WorkflowService1.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\WorkflowService1\WorkflowService1\obj\Debug\WorkflowService1.dll
+C:\Users\TT\source\repos\WorkflowService1\WorkflowService1\obj\Debug\WorkflowService1.pdb
+C:\Users\TT\source\repos\WorkflowService1\WorkflowService1\bin\Facebook.dll
+C:\Users\TT\source\repos\WorkflowService1\WorkflowService1\bin\Facebook.xml
+C:\Users\TT\source\repos\WorkflowService1\WorkflowService1\obj\Debug\WorkflowService1.csproj.CopyComplete

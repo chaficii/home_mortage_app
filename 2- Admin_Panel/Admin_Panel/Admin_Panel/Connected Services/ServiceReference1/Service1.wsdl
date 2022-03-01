@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Service1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:61566/Service1.xamlx?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:61566/Service1.xamlx?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IGetApplication_GetApplication_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetApplication" />
+  </wsdl:message>
+  <wsdl:message name="IGetApplication_GetApplication_OutputMessage">
+    <wsdl:part xmlns:q1="http://schemas.microsoft.com/2003/10/Serialization/" name="string" element="q1:string" />
+  </wsdl:message>
+  <wsdl:message name="IGetUserProfile_GetUserProfile_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetUserProfile" />
+  </wsdl:message>
+  <wsdl:message name="IGetUserProfile_GetUserProfile_OutputMessage">
+    <wsdl:part xmlns:q2="http://schemas.microsoft.com/2003/10/Serialization/" name="string" element="q2:string" />
+  </wsdl:message>
+  <wsdl:message name="IAskVendor1_AskVendor1_InputMessage">
+    <wsdl:part name="parameters" element="tns:AskVendor1" />
+  </wsdl:message>
+  <wsdl:message name="IAskVendor1_AskVendor1_OutputMessage">
+    <wsdl:part xmlns:q3="http://schemas.microsoft.com/2003/10/Serialization/" name="string" element="q3:string" />
+  </wsdl:message>
+  <wsdl:message name="IAskVendor2_AskVendor2_InputMessage">
+    <wsdl:part name="parameters" element="tns:AskVendor2" />
+  </wsdl:message>
+  <wsdl:message name="IAskVendor2_AskVendor2_OutputMessage">
+    <wsdl:part xmlns:q4="http://schemas.microsoft.com/2003/10/Serialization/" name="string" element="q4:string" />
+  </wsdl:message>
+  <wsdl:message name="IAskVendor3_AskVendor3_InputMessage">
+    <wsdl:part name="parameters" element="tns:AskVendor3" />
+  </wsdl:message>
+  <wsdl:message name="IAskVendor3_AskVendor3_OutputMessage">
+    <wsdl:part xmlns:q5="http://schemas.microsoft.com/2003/10/Serialization/" name="string" element="q5:string" />
+  </wsdl:message>
+  <wsdl:portType name="IGetApplication">
+    <wsdl:operation name="GetApplication">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGetApplication/GetApplication" message="tns:IGetApplication_GetApplication_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IGetApplication/GetApplicationResponse" message="tns:IGetApplication_GetApplication_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="IGetUserProfile">
+    <wsdl:operation name="GetUserProfile">
+      <wsdl:input wsaw:Action="http://tempuri.org/IGetUserProfile/GetUserProfile" message="tns:IGetUserProfile_GetUserProfile_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IGetUserProfile/GetUserProfileResponse" message="tns:IGetUserProfile_GetUserProfile_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="IAskVendor1">
+    <wsdl:operation name="AskVendor1">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAskVendor1/AskVendor1" message="tns:IAskVendor1_AskVendor1_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAskVendor1/AskVendor1Response" message="tns:IAskVendor1_AskVendor1_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="IAskVendor2">
+    <wsdl:operation name="AskVendor2">
+      <wsdl:input wsaw:Action="http://tempuri.org/IAskVendor2/AskVendor2" message="tns:IAskVendor2_AskVendor2_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAskVendor2/AskVendor2Response" message="tns:IAskVendor2_AskVendor2_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:portType name="IAskVendor3">
+    <wsdl:operation name="AskVendor3">
+      <wsdl:input wsaw:Action="" message="tns:IAskVendor3_AskVendor3_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IAskVendor3/AskVendor3Response" message="tns:IAskVendor3_AskVendor3_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IGetApplication" type="tns:IGetApplication">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetApplication">
+      <soap:operation soapAction="http://tempuri.org/IGetApplication/GetApplication" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BasicHttpBinding_IGetUserProfile" type="tns:IGetUserProfile">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetUserProfile">
+      <soap:operation soapAction="http://tempuri.org/IGetUserProfile/GetUserProfile" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BasicHttpBinding_IAskVendor1" type="tns:IAskVendor1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AskVendor1">
+      <soap:operation soapAction="http://tempuri.org/IAskVendor1/AskVendor1" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BasicHttpBinding_IAskVendor2" type="tns:IAskVendor2">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AskVendor2">
+      <soap:operation soapAction="http://tempuri.org/IAskVendor2/AskVendor2" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="BasicHttpBinding_IAskVendor3" type="tns:IAskVendor3">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="AskVendor3">
+      <soap:operation soapAction="" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="BasicHttpBinding_IGetApplication" binding="tns:BasicHttpBinding_IGetApplication">
+      <soap:address location="http://localhost:61566/Service1.xamlx" />
+    </wsdl:port>
+    <wsdl:port name="BasicHttpBinding_IGetUserProfile" binding="tns:BasicHttpBinding_IGetUserProfile">
+      <soap:address location="http://localhost:61566/Service1.xamlx" />
+    </wsdl:port>
+    <wsdl:port name="BasicHttpBinding_IAskVendor1" binding="tns:BasicHttpBinding_IAskVendor1">
+      <soap:address location="http://localhost:61566/Service1.xamlx" />
+    </wsdl:port>
+    <wsdl:port name="BasicHttpBinding_IAskVendor2" binding="tns:BasicHttpBinding_IAskVendor2">
+      <soap:address location="http://localhost:61566/Service1.xamlx" />
+    </wsdl:port>
+    <wsdl:port name="BasicHttpBinding_IAskVendor3" binding="tns:BasicHttpBinding_IAskVendor3">
+      <soap:address location="http://localhost:61566/Service1.xamlx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

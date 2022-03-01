@@ -1,0 +1,16 @@
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\bin\Debug\Admin_Panel.exe.config
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\bin\Debug\Admin_Panel.exe
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\bin\Debug\Admin_Panel.pdb
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\obj\Debug\Admin_Panel.Form1.resources
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\obj\Debug\Admin_Panel.Properties.Resources.resources
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\obj\Debug\Admin_Panel.csproj.GenerateResource.cache
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\obj\Debug\Admin_Panel.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\obj\Debug\Admin_Panel.exe
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\obj\Debug\Admin_Panel.pdb
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\bin\Debug\Google.Protobuf.dll
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\bin\Debug\MySql.Data.dll
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\bin\Debug\Google.Protobuf.xml
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\bin\Debug\MySql.Data.xml
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\obj\Debug\Admin_Panel.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\Admin_Panel\Admin_Panel\obj\Debug\Admin_Panel.csproj.CopyComplete

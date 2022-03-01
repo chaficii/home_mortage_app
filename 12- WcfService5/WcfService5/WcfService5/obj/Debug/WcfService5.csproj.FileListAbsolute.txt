@@ -1,0 +1,7 @@
+C:\Users\TT\source\repos\WcfService5\WcfService5\bin\WcfService5.dll.config
+C:\Users\TT\source\repos\WcfService5\WcfService5\bin\WcfService5.dll
+C:\Users\TT\source\repos\WcfService5\WcfService5\bin\WcfService5.pdb
+C:\Users\TT\source\repos\WcfService5\WcfService5\obj\Debug\WcfService5.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\WcfService5\WcfService5\obj\Debug\WcfService5.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\WcfService5\WcfService5\obj\Debug\WcfService5.dll
+C:\Users\TT\source\repos\WcfService5\WcfService5\obj\Debug\WcfService5.pdb

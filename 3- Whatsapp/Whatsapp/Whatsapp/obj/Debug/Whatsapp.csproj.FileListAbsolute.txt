@@ -1,0 +1,17 @@
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\bin\Debug\Whatsapp.exe.config
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\bin\Debug\Whatsapp.exe
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\bin\Debug\Whatsapp.pdb
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\bin\Debug\Twilio.dll
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\bin\Debug\Twilio.xml
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\obj\Debug\Whatsapp.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\obj\Debug\Whatsapp.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\obj\Debug\Whatsapp.csproj.CopyComplete
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\obj\Debug\Whatsapp.exe
+C:\Users\TT\source\repos\Whatsapp\Whatsapp\obj\Debug\Whatsapp.pdb

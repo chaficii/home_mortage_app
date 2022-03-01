@@ -1,0 +1,10 @@
+C:\Users\TT\source\repos\WF4_client\WF4_client\bin\Debug\WF4_client.exe.config
+C:\Users\TT\source\repos\WF4_client\WF4_client\bin\Debug\WF4_client.exe
+C:\Users\TT\source\repos\WF4_client\WF4_client\bin\Debug\WF4_client.pdb
+C:\Users\TT\source\repos\WF4_client\WF4_client\obj\Debug\WF4_client.csprojAssemblyReference.cache
+C:\Users\TT\source\repos\WF4_client\WF4_client\obj\Debug\WF4_client.Form1.resources
+C:\Users\TT\source\repos\WF4_client\WF4_client\obj\Debug\WF4_client.Properties.Resources.resources
+C:\Users\TT\source\repos\WF4_client\WF4_client\obj\Debug\WF4_client.csproj.GenerateResource.cache
+C:\Users\TT\source\repos\WF4_client\WF4_client\obj\Debug\WF4_client.csproj.CoreCompileInputs.cache
+C:\Users\TT\source\repos\WF4_client\WF4_client\obj\Debug\WF4_client.exe
+C:\Users\TT\source\repos\WF4_client\WF4_client\obj\Debug\WF4_client.pdb
